@@ -1,1 +1,1 @@
-*Empahsize* This file is mandatory in all ALX School projects
+I have made changes to this file and are up to date
